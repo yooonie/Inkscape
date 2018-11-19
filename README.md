@@ -4,8 +4,10 @@
  
 #Descriptions
 - Raster 2 Laser GCode generator is an extension to generate Gcode for a laser cutter/engraver (or pen plotter), it can generate various type of outputs from a simple B&W (on/off) to a more detailed Grayscale (pwm)
-- This Fork is created for anet a8 with this add :
--- a --
+- This Fork is created for anet a8 with this add : 
+- Add laser On/Off command for anet a8 (M106, M107)
+- Add Depth value (todo)
+- Add number of passes (todo)
 
 #Installing:
 
